@@ -33,7 +33,7 @@ The output may contains several lines , each line with two integers Xi and Yi, d
 6 2
 ```
 ## code
-```cpp
+```c
 #include <iostream>
 #include <vector>
 using namespace std;
